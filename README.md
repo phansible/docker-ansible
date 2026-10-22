@@ -1,5 +1,6 @@
 # Docker ansible
 
+> [!WARNING]
 > **Deprecated.** This image is no longer maintained. It only ever shipped Ubuntu 14.04 and was last built in 2016. Phansible roles are now tested in each role's GitHub Actions workflow on official Debian and Ubuntu images.
 
 Ansible in a docker container
